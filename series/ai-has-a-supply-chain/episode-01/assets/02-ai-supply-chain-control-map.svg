@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img" aria-labelledby="title desc">
+  <title id="title">AI supply-chain control map</title>
+  <desc id="desc">A map tracing a regulated business outcome backwards through workflow, identity and data, model, cloud service, compute, network and storage, facility and cooling, power, and contracts and operators. Each layer is marked as enterprise-owned, shared, or provider-delegated.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#65717D"/>
+    </marker>
+  </defs>
+  <rect width="1080" height="1350" fill="#0D0F12"/>
+  <rect x="0" y="0" width="18" height="1350" fill="#07A3D1"/>
+  <text x="72" y="78" fill="#FF7900" font-family="Roboto, Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="2">AI HAS A SUPPLY CHAIN  •  CONTROL MAP</text>
+  <text x="72" y="158" fill="#EDE8E3" font-family="Radley, Georgia, serif" font-size="62">The user sees one answer.</text>
+  <text x="72" y="226" fill="#EDE8E3" font-family="Radley, Georgia, serif" font-size="62">The enterprise inherits the chain.</text>
+  <text x="72" y="278" fill="#B9C1C8" font-family="Roboto, Arial, sans-serif" font-size="27">Follow one regulated workflow backwards. Ownership changes at every boundary.</text>
+
+  <rect x="72" y="330" width="936" height="70" rx="14" fill="#15191E" stroke="#38414A" stroke-width="2"/>
+  <rect x="95" y="349" width="22" height="22" rx="4" fill="#FF4F00"/><text x="132" y="368" fill="#EDE8E3" font-family="Roboto, Arial, sans-serif" font-size="21">Enterprise-owned</text>
+  <rect x="348" y="349" width="22" height="22" rx="11" fill="#07A3D1"/><text x="385" y="368" fill="#EDE8E3" font-family="Roboto, Arial, sans-serif" font-size="21">Shared responsibility</text>
+  <rect x="684" y="349" width="22" height="22" rx="4" fill="#65717D"/><text x="721" y="368" fill="#EDE8E3" font-family="Roboto, Arial, sans-serif" font-size="21">Provider-delegated work</text>
+
+  <g font-family="Roboto, Arial, sans-serif">
+    <line x1="540" y1="445" x2="540" y2="1132" stroke="#65717D" stroke-width="4" marker-end="url(#arrow)"/>
+    <g><rect x="110" y="430" width="860" height="65" rx="18" fill="#2A1711" stroke="#FF4F00" stroke-width="2"/><rect x="130" y="449" width="27" height="27" rx="5" fill="#FF4F00"/><text x="185" y="471" fill="#EDE8E3" font-size="27" font-weight="700">1  Business outcome</text><text x="535" y="471" fill="#B9C1C8" font-size="22">Approval, service consequence, customer duty</text></g>
+    <g><rect x="110" y="510" width="860" height="65" rx="18" fill="#2A1711" stroke="#FF4F00" stroke-width="2"/><rect x="130" y="529" width="27" height="27" rx="5" fill="#FF4F00"/><text x="185" y="551" fill="#EDE8E3" font-size="27" font-weight="700">2  Workflow</text><text x="535" y="551" fill="#B9C1C8" font-size="22">Human handoff, fallback, audit record</text></g>
+    <g><rect x="110" y="590" width="860" height="65" rx="18" fill="#10252A" stroke="#07A3D1" stroke-width="2"/><rect x="130" y="609" width="27" height="27" rx="14" fill="#07A3D1"/><text x="185" y="631" fill="#EDE8E3" font-size="27" font-weight="700">3  Identity and data</text><text x="535" y="631" fill="#B9C1C8" font-size="22">Access, location, keys, retention</text></g>
+    <g><rect x="110" y="670" width="860" height="65" rx="18" fill="#10252A" stroke="#07A3D1" stroke-width="2"/><rect x="130" y="689" width="27" height="27" rx="14" fill="#07A3D1"/><text x="185" y="711" fill="#EDE8E3" font-size="27" font-weight="700">4  Model</text><text x="535" y="711" fill="#B9C1C8" font-size="22">Version, configuration, update authority</text></g>
+    <g><rect x="110" y="750" width="860" height="65" rx="18" fill="#10252A" stroke="#07A3D1" stroke-width="2"/><rect x="130" y="769" width="27" height="27" rx="14" fill="#07A3D1"/><text x="185" y="791" fill="#EDE8E3" font-size="27" font-weight="700">5  Cloud service and region</text><text x="535" y="791" fill="#B9C1C8" font-size="22">Endpoint, quota, control plane, recovery</text></g>
+    <g><rect x="110" y="830" width="860" height="65" rx="18" fill="#20252B" stroke="#65717D" stroke-width="2"/><rect x="130" y="849" width="27" height="27" rx="5" fill="#65717D"/><text x="185" y="871" fill="#EDE8E3" font-size="27" font-weight="700">6  Compute</text><text x="535" y="871" fill="#B9C1C8" font-size="22">Accelerators, memory, scheduler, capacity</text></g>
+    <g><rect x="110" y="910" width="860" height="65" rx="18" fill="#20252B" stroke="#65717D" stroke-width="2"/><rect x="130" y="929" width="27" height="27" rx="5" fill="#65717D"/><text x="185" y="951" fill="#EDE8E3" font-size="27" font-weight="700">7  Network and storage</text><text x="535" y="951" fill="#B9C1C8" font-size="22">Routes, data movement, throughput</text></g>
+    <g><rect x="110" y="990" width="860" height="65" rx="18" fill="#20252B" stroke="#65717D" stroke-width="2"/><rect x="130" y="1009" width="27" height="27" rx="5" fill="#65717D"/><text x="185" y="1031" fill="#EDE8E3" font-size="27" font-weight="700">8  Facility and cooling</text><text x="535" y="1031" fill="#B9C1C8" font-size="22">Power path, heat rejection, maintenance</text></g>
+    <g><rect x="110" y="1070" width="860" height="65" rx="18" fill="#20252B" stroke="#65717D" stroke-width="2"/><rect x="130" y="1089" width="27" height="27" rx="5" fill="#65717D"/><text x="185" y="1111" fill="#EDE8E3" font-size="27" font-weight="700">9  Power, contracts and operators</text><text x="690" y="1111" fill="#B9C1C8" font-size="22">Firm MW, people, finance</text></g>
+  </g>
+
+  <rect x="72" y="1182" width="936" height="102" rx="18" fill="#25160F" stroke="#FF4F00" stroke-width="2"/>
+  <text x="104" y="1227" fill="#EDE8E3" font-family="Roboto, Arial, sans-serif" font-size="24" font-weight="700">At every layer ask:</text>
+  <text x="104" y="1262" fill="#EDE8E3" font-family="Roboto, Arial, sans-serif" font-size="24">Who owns it? What proves it works? How do we recover or leave?</text>
+  <text x="72" y="1322" fill="#87919A" font-family="Roboto, Arial, sans-serif" font-size="17">Ownership shown is a review prompt, not a universal allocation. Confirm it against the workload architecture and contract.</text>
+</svg>

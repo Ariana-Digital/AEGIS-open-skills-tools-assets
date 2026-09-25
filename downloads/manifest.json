@@ -1,0 +1,97 @@
+{
+  "version": "1.0.0",
+  "date": "2026-09-24",
+  "archives": [
+    {
+      "file": "episode-06-control-review-v1.0.0.zip",
+      "bytes": 354324,
+      "sha256": "f9e809eeaf5e76ba606ebd53691b6e8bc2b47bb0bc38da092e44486468ca34ed",
+      "files": 13,
+      "version": "1.0.0"
+    },
+    {
+      "file": "ai-control-review-v1.0.0.zip",
+      "bytes": 6886,
+      "sha256": "26ee4d05cd432b863f6cfb0440c5949bd9a652e1286403b8b0ceb511884c1435",
+      "files": 3,
+      "version": "1.0.0"
+    },
+    {
+      "file": "episode-07-placement-test-v1.0.0.zip",
+      "bytes": 352572,
+      "sha256": "688931a2578a11e96b8c5eb6496842f34977578a9e697eddb25d77da863aae39",
+      "files": 14,
+      "version": "1.0.0"
+    },
+    {
+      "file": "ai-workload-placement-v1.0.0.zip",
+      "bytes": 6287,
+      "sha256": "8197812a39f0b2de9a83f3b8282675211ad93f74f257869a51305a863b428604",
+      "files": 3,
+      "version": "1.0.0"
+    },
+    {
+      "file": "episode-08-delivery-gates-v1.0.0.zip",
+      "bytes": 353231,
+      "sha256": "6afb1864e02398e3035a164d8de96a7c2d915295e3f12690440481c454afa6f5",
+      "files": 14,
+      "version": "1.0.0"
+    },
+    {
+      "file": "ai-delivery-gate-review-v1.0.0.zip",
+      "bytes": 6317,
+      "sha256": "66377a05d4074b67a555e2a1aa49be7d43ce2f68a1b1a85c1da1d970d41462b9",
+      "files": 3,
+      "version": "1.0.0"
+    },
+    {
+      "file": "episode-01-assets-v1.0.0.zip",
+      "bytes": 259921,
+      "sha256": "426135837c6c3c00c4292e48d0ca67fe22cff90827b13c471eaf64723662c190",
+      "files": 8,
+      "version": "1.0.0"
+    },
+    {
+      "file": "episode-02-assets-v1.0.0.zip",
+      "bytes": 338821,
+      "sha256": "0b37e87201c1ee5e529f6ff699b96c99afb9859cb77142c72854ac46d7b66188",
+      "files": 10,
+      "version": "1.0.0"
+    },
+    {
+      "file": "episode-03-assets-v1.0.0.zip",
+      "bytes": 1930606,
+      "sha256": "9dba48eec687dae591a3cc4a390acfe22dfa281220aa1418a00606f17048dc7a",
+      "files": 10,
+      "version": "1.0.0"
+    },
+    {
+      "file": "episode-04-assets-v1.0.0.zip",
+      "bytes": 357307,
+      "sha256": "01c29e6cb5a8875cd786df73ad8ea89146fc6e4ab5b88a4d8be875721515ae43",
+      "files": 8,
+      "version": "1.0.0"
+    },
+    {
+      "file": "episode-05-assets-v1.0.0.zip",
+      "bytes": 2695708,
+      "sha256": "d8dff5b4d8306cb9ad88e0ed8ab1a90522e8e69c8f90cde897a6c54d4a2e77c5",
+      "files": 11,
+      "version": "1.0.0"
+    },
+    {
+      "file": "episode-06-assets-v1.0.0.zip",
+      "bytes": 328839,
+      "sha256": "b1664aadc2c3d797b96cd08f745c5f5055106a46dde1236a1728fa3a52ee038e",
+      "files": 8,
+      "version": "1.0.0"
+    },
+    {
+      "file": "ai-has-a-supply-chain-v1.0.0.zip",
+      "bytes": 6949780,
+      "sha256": "b5cdfa302b69c2f989c19e0d262acf8405e3074dd0dc47c0b4d571838ae34bca",
+      "files": 90,
+      "version": "1.0.0"
+    }
+  ]
+}

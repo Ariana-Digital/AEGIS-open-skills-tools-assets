@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img" aria-labelledby="title desc">
+  <title id="title">Capacity claim verification sheet</title>
+  <desc id="desc">A blank capacity-claim record with fields for source, evidence state, customer commitment, missing gate, fallback, owner and review date.</desc>
+
+  <rect width="1080" height="1350" fill="#0D0F12"/>
+  <rect x="0" y="0" width="18" height="1350" fill="#FF4F00"/>
+  <text x="72" y="68" fill="#07A3D1" font-family="Roboto, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="2">AI HAS A SUPPLY CHAIN  •  02/12</text>
+  <text x="72" y="174" font-size="56" fill="#EDE8E3" font-family="Radley, Georgia, serif"><tspan x="72" y="174">Verify the claim</tspan><tspan x="72" y="236">behind the date.</tspan></text>
+  <text x="72" y="284" fill="#B9C1C8" font-family="Roboto, Arial, sans-serif" font-size="25">One record for each capacity assumption in the plan.</text>
+  <rect x="72" y="326" width="936" height="868" rx="24" fill="#15191E" stroke="#38414A" stroke-width="2"/>
+  <text x="104" y="372" fill="#07A3D1" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700">EXACT CLAIM</text>
+    <line x1="104" y1="438" x2="976" y2="438" stroke="#65717D" stroke-width="2"/><text x="104" y="492" fill="#07A3D1" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700">SOURCE + DATE</text>
+    <line x1="104" y1="558" x2="524" y2="558" stroke="#65717D" stroke-width="2"/><text x="556" y="492" fill="#07A3D1" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700">ACTOR + ASSET / SERVICE</text>
+    <line x1="556" y1="558" x2="976" y2="558" stroke="#65717D" stroke-width="2"/><text x="104" y="612" fill="#07A3D1" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700">EVIDENCE STATE</text>
+    <line x1="104" y1="678" x2="374" y2="678" stroke="#65717D" stroke-width="2"/><text x="404" y="612" fill="#07A3D1" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700">REGION</text>
+    <line x1="404" y1="678" x2="674" y2="678" stroke="#65717D" stroke-width="2"/><text x="704" y="612" fill="#07A3D1" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700">CUSTOMER CAPACITY UNIT</text>
+    <line x1="704" y1="678" x2="976" y2="678" stroke="#65717D" stroke-width="2"/><text x="104" y="732" fill="#07A3D1" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700">POWER + INTERCONNECTION EVIDENCE</text>
+    <line x1="104" y1="798" x2="524" y2="798" stroke="#65717D" stroke-width="2"/><text x="556" y="732" fill="#07A3D1" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700">PERMITS + BUILD STATUS</text>
+    <line x1="556" y1="798" x2="976" y2="798" stroke="#65717D" stroke-width="2"/><text x="104" y="852" fill="#07A3D1" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700">WORKLOAD ACCEPTANCE + SERVICE DATE</text>
+    <line x1="104" y1="918" x2="976" y2="918" stroke="#65717D" stroke-width="2"/><text x="104" y="972" fill="#07A3D1" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700">MISSING GATE</text>
+    <line x1="104" y1="1038" x2="524" y2="1038" stroke="#65717D" stroke-width="2"/><text x="556" y="972" fill="#07A3D1" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700">REMEDY + FALLBACK</text>
+    <line x1="556" y1="1038" x2="976" y2="1038" stroke="#65717D" stroke-width="2"/><text x="104" y="1092" fill="#07A3D1" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700">OWNER + NEXT DECISION</text>
+    <line x1="104" y1="1158" x2="674" y2="1158" stroke="#65717D" stroke-width="2"/><text x="704" y="1092" fill="#07A3D1" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700">RECHECK DATE</text>
+    <line x1="704" y1="1158" x2="976" y2="1158" stroke="#65717D" stroke-width="2"/>
+  <rect x="72" y="1232" width="936" height="72" rx="18" fill="#25160F" stroke="#FF4F00" stroke-width="2"/>
+  <text x="104" y="1277" fill="#EDE8E3" font-family="Roboto, Arial, sans-serif" font-size="23" font-weight="700">Approval test: can this evidence support the workload, region and date?</text>
+  <text x="72" y="1332" fill="#87919A" font-family="Roboto, Arial, sans-serif" font-size="16">Editable workbook companion includes source register, examples, classifier and bank scenario.</text>
+</svg>

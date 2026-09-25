@@ -1,0 +1,24 @@
+// No dependencies; run with a current Node.js runtime: node tests/models.cjs
+const assert=require('node:assert/strict');
+const P=require('../tools/episode-07-placement-test/model.js');
+const D=require('../tools/episode-08-delivery-gates/model.js');
+let p=P.example();assert.deepEqual(P.validate(p),p);
+assert.match(P.evaluate(p).cards[0].verdict,/Within/);
+assert.match(P.evaluate(p).cards[1].verdict,/Does not meet/);
+p.items[0].quality='';assert.match(P.evaluate(p).cards[0].verdict,/incomplete/);
+p=P.example();p.items[0].protocol='different';assert.match(P.evaluate(p).cards[0].verdict,/incomplete/);
+p=P.example();p.items[0].safety='Does not meet';assert.match(P.evaluate(p).cards[0].verdict,/Does not meet/);
+assert.throws(()=>P.validate({...p,version:2}));
+let d=D.example();assert.deepEqual(D.validate(d),d);
+assert.equal(D.evaluate(d).days,16);assert.equal(D.evaluate(d).ls.network-D.evaluate(d).es.network,11);
+d.items[1].duration='13';assert.equal(D.evaluate(d).days,19);
+d=D.example();d.items[2].duration='6';assert.equal(D.evaluate(d).days,16);
+d=D.example();d.items[1].duration='';assert.equal(D.evaluate(d).days,undefined);
+d=D.example();d.items[1].predecessors='service';assert.equal(D.evaluate(d).days,undefined);
+d=D.example();d.items[1].predecessors='absent';assert.equal(D.evaluate(d).days,undefined);
+d=D.example();d.items[1].id='shell';assert.equal(D.evaluate(d).days,undefined);
+d=D.example();Object.assign(d.items[1],{status:'Accepted',duration:'0',acceptedDate:'2026-09-24'});assert.equal(D.evaluate(d).days,6);
+d=D.example();d.items[2].duration='14';assert.equal(D.evaluate(d).days,16);assert.match(D.evaluate(d).cards[2].verdict,/Zero float/);
+d=D.example();d.items.push({...D.item(),id:'unrelated',name:'Other',duration:'50',notBefore:'0',status:'Open',owner:'Owner',evidence:'Example'});assert.equal(D.evaluate(d).days,16);assert.match(D.evaluate(d).cards[5].verdict,/Excluded/);
+assert.throws(()=>D.validate({...d,version:2}));
+console.log('PASS: placement thresholds, unknowns, protocol mismatch, hard constraints, JSON validation; delivery arithmetic, sensitivity, missing inputs, cycles, IDs, acceptance and disconnected work.');

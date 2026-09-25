@@ -1,0 +1,184 @@
+[
+  {
+    "episode": "01",
+    "path": "series/ai-has-a-supply-chain/episode-01/assets/02-ai-supply-chain-control-map.png",
+    "title": "AI supply-chain control map",
+    "alt": "A business AI service traced through its operating dependencies and responsibilities.",
+    "note": "Editorial diagram; not a customer result or approval."
+  },
+  {
+    "episode": "01",
+    "path": "series/ai-has-a-supply-chain/episode-01/assets/04-exposure-map-template.png",
+    "title": "Workflow exposure map",
+    "alt": "Blank review fields for dependencies, owners, failure consequences, evidence, recovery and exit.",
+    "note": "Editorial diagram; not a customer result or approval."
+  },
+  {
+    "episode": "02",
+    "path": "series/ai-has-a-supply-chain/episode-02/assets/01-capacity-evidence-states.png",
+    "title": "Capacity evidence states",
+    "alt": "Capacity claims separated by evidence state; an announcement does not establish workload acceptance.",
+    "note": "Editorial diagram; not a customer result or approval."
+  },
+  {
+    "episode": "02",
+    "path": "series/ai-has-a-supply-chain/episode-02/assets/03-bank-capacity-test.png",
+    "title": "Bank capacity test",
+    "alt": "Illustrative US bank review of service, region, quantity, date, acceptance and fallback.",
+    "note": "Fictional bank scenario. Check applicable current supervisory scope before use."
+  },
+  {
+    "episode": "02",
+    "path": "series/ai-has-a-supply-chain/episode-02/assets/04-capacity-verification-sheet.png",
+    "title": "Capacity claim record",
+    "alt": "Fields for the exact claim, evidence, service commitment, unresolved gate and owner.",
+    "note": "Editorial diagram; not a customer result or approval."
+  },
+  {
+    "episode": "03",
+    "path": "series/ai-has-a-supply-chain/episode-03/assets/01-full-cost-stack.png",
+    "title": "Full cost stack",
+    "alt": "Cost categories from model calls through review, operations and shared costs.",
+    "note": "All numerical scenario inputs are illustrative, not measured healthcare results."
+  },
+  {
+    "episode": "03",
+    "path": "series/ai-has-a-supply-chain/episode-03/assets/02-accepted-work-funnel.png",
+    "title": "Accepted work funnel",
+    "alt": "Illustrative outputs narrowed to completed and accepted work; rejected work remains in cost.",
+    "note": "All numerical scenario inputs are illustrative, not measured healthcare results."
+  },
+  {
+    "episode": "03",
+    "path": "series/ai-has-a-supply-chain/episode-03/assets/03-healthcare-bill-autopsy.png",
+    "title": "Healthcare cost example",
+    "alt": "Invented healthcare costs divided by accepted work, not raw model calls.",
+    "note": "All numerical scenario inputs are illustrative, not measured healthcare results."
+  },
+  {
+    "episode": "03",
+    "path": "series/ai-has-a-supply-chain/episode-03/assets/04-workload-cost-ledger.png",
+    "title": "Cost review record",
+    "alt": "Fields tying one workload and period to costs, accepted volume, owner and evidence.",
+    "note": "All numerical scenario inputs are illustrative, not measured healthcare results."
+  },
+  {
+    "episode": "03",
+    "path": "series/ai-has-a-supply-chain/episode-03/assets/episode-03-opening-brand-image-clean.png",
+    "title": "The bill arrived before the ROI did",
+    "alt": "Glass-slab cloud invoice and clinical acceptance report with an unconnected line between them.",
+    "note": "Generated editorial illustration; no real invoice, patient or clinical record."
+  },
+  {
+    "episode": "03",
+    "path": "series/ai-has-a-supply-chain/episode-03/assets/episode-03-youtube-thumbnail.png",
+    "title": "Episode 3 thumbnail",
+    "alt": "Episode 3 cover on the cost of accepted work.",
+    "note": "Editorial diagram; not a customer result or approval."
+  },
+  {
+    "episode": "04",
+    "path": "series/ai-has-a-supply-chain/episode-04/assets/02-capital-flow-map.png",
+    "title": "Capital flow map",
+    "alt": "Contract relationships among model company, cloud operator, supplier and financier.",
+    "note": "Conceptual finance illustration, not investment advice or an allegation about a company."
+  },
+  {
+    "episode": "04",
+    "path": "series/ai-has-a-supply-chain/episode-04/assets/03-two-finance-clocks.png",
+    "title": "Two finance clocks",
+    "alt": "Facility obligations and compute refresh can run on different timelines.",
+    "note": "Conceptual finance illustration, not investment advice or an allegation about a company."
+  },
+  {
+    "episode": "04",
+    "path": "series/ai-has-a-supply-chain/episode-04/assets/04-capital-reconciliation-sheet.png",
+    "title": "Capital claim record",
+    "alt": "Fields for instrument, status, overlap and risk holder, used to reconcile a financing claim.",
+    "note": "Conceptual finance illustration, not investment advice or an allegation about a company."
+  },
+  {
+    "episode": "04",
+    "path": "series/ai-has-a-supply-chain/episode-04/assets/episode-04-youtube-thumbnail.png",
+    "title": "Episode 4 thumbnail",
+    "alt": "Episode 4 cover on who finances the build-out.",
+    "note": "Editorial diagram; not a customer result or approval."
+  },
+  {
+    "episode": "05",
+    "path": "series/ai-has-a-supply-chain/episode-05/assets/01-two-regions-one-path.png",
+    "title": "Shared failure path",
+    "alt": "Two regional deployments share identity, routing, policy or model-access dependencies.",
+    "note": "Fictional manufacturing exercise. Times and capacities are teaching inputs, not recommended targets."
+  },
+  {
+    "episode": "05",
+    "path": "series/ai-has-a-supply-chain/episode-05/assets/02-degraded-mode-decision.png",
+    "title": "Degraded-mode decision",
+    "alt": "Manual operation, hold and stop each require explicit resources and authority.",
+    "note": "Fictional manufacturing exercise. Times and capacities are teaching inputs, not recommended targets."
+  },
+  {
+    "episode": "05",
+    "path": "series/ai-has-a-supply-chain/episode-05/assets/03-continuity-tabletop-timeline.png",
+    "title": "Continuity tabletop",
+    "alt": "A fictional exercise injects provider failure, shared dependencies and capacity constraints.",
+    "note": "Fictional manufacturing exercise. Times and capacities are teaching inputs, not recommended targets."
+  },
+  {
+    "episode": "05",
+    "path": "series/ai-has-a-supply-chain/episode-05/assets/04-recovery-targets.png",
+    "title": "Recovery targets",
+    "alt": "Recovery-time and recovery-point targets are checked against the whole business process.",
+    "note": "Fictional manufacturing exercise. Times and capacities are teaching inputs, not recommended targets."
+  },
+  {
+    "episode": "05",
+    "path": "series/ai-has-a-supply-chain/episode-05/assets/episode-05-plant-gate-412-4x3-v2.png",
+    "title": "Finished goods at Gate 412",
+    "alt": "Visible manufacturing machinery and finished goods beside Gate 412 under a model endpoint unavailable warning.",
+    "note": "Generated fictional plant scene. In this image 412 labels the gate; the carousel separately uses 412 as an illustrative unit count. Do not splice them as a single literal event."
+  },
+  {
+    "episode": "05",
+    "path": "series/ai-has-a-supply-chain/episode-05/assets/episode-05-youtube-thumbnail.png",
+    "title": "Episode 5 thumbnail",
+    "alt": "Episode 5 cover on recovery when a provider or region fails.",
+    "note": "Editorial diagram; not a customer result or approval."
+  },
+  {
+    "episode": "05",
+    "path": "series/ai-has-a-supply-chain/episode-05/assets/ai-has-a-supply-chain-episode-05-carousel.pdf",
+    "title": "Episode 5 continuity carousel",
+    "alt": "Seven slides covering a fictional plant outage, shared dependencies, degraded modes and a tabletop.",
+    "note": "Illustrative teaching material; numerical targets are not industry standards. Image alternatives and a text companion accompany this PDF."
+  },
+  {
+    "episode": "06",
+    "path": "series/ai-has-a-supply-chain/episode-06/assets/01-three-control-axes.png",
+    "title": "Three control axes",
+    "alt": "Sovereignty, openness and management shown as separate dimensions.",
+    "note": "Control-review illustration; rollback depends on supported deployment and model lifecycle options."
+  },
+  {
+    "episode": "06",
+    "path": "series/ai-has-a-supply-chain/episode-06/assets/02-four-layer-control-stack.png",
+    "title": "Four control layers",
+    "alt": "Data, model, platform and operations each need controls, owners and evidence.",
+    "note": "Control-review illustration; rollback depends on supported deployment and model lifecycle options."
+  },
+  {
+    "episode": "06",
+    "path": "series/ai-has-a-supply-chain/episode-06/assets/03-managed-model-update-loop.png",
+    "title": "Model update review",
+    "alt": "Detect, evaluate, approve, stage, monitor and recover or roll back a model change.",
+    "note": "Control-review illustration; rollback depends on supported deployment and model lifecycle options."
+  },
+  {
+    "episode": "06",
+    "path": "series/ai-has-a-supply-chain/episode-06/assets/episode-06-youtube-thumbnail.png",
+    "title": "Episode 6 thumbnail",
+    "alt": "Episode 6 cover on sovereign, open and managed arrangements.",
+    "note": "Editorial diagram; not a customer result or approval."
+  }
+]

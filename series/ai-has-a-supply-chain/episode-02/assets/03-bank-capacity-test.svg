@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img" aria-labelledby="title desc">
+  <title id="title">Bank workload capacity test</title>
+  <desc id="desc">A fictional bank deployment across the UK, EU and India with six required fields for service, region, quantity, date, acceptance and fallback.</desc>
+
+  <rect width="1080" height="1350" fill="#0D0F12"/>
+  <rect x="0" y="0" width="18" height="1350" fill="#FF4F00"/>
+  <text x="72" y="68" fill="#07A3D1" font-family="Roboto, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="2">AI HAS A SUPPLY CHAIN  •  02/12</text>
+  <text x="72" y="174" font-size="56" fill="#EDE8E3" font-family="Radley, Georgia, serif"><tspan x="72" y="174">The bank needs</tspan><tspan x="72" y="236">a commitment.</tspan></text>
+  <text x="72" y="284" fill="#B9C1C8" font-family="Roboto, Arial, sans-serif" font-size="25">Provider scale becomes useful when it is translated to the workload.</text>
+  <rect x="72" y="326" width="936" height="116" rx="22" fill="#25160F" stroke="#FF4F00" stroke-width="2"/>
+  <text x="104" y="368" fill="#FF7900" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700">FICTIONAL BOARD STATUS</text>
+  <text x="104" y="400" fill="#EDE8E3" font-family="Radley, Georgia, serif" font-size="29">“Capacity confirmed”</text>
+  <text x="390" y="400" fill="#B9C1C8" font-family="Roboto, Arial, sans-serif" font-size="22">source: regional expansion announcement</text>
+
+  <text x="72" y="510" fill="#EDE8E3" font-family="Radley, Georgia, serif" font-size="38">Six facts make the question answerable.</text>
+  <rect x="72" y="552" width="420" height="104" rx="18" fill="#15191E" stroke="#38414A" stroke-width="2"/>
+      <text x="98" y="586" fill="#07A3D1" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700">SERVICE</text>
+      <text x="98" y="626" fill="#EDE8E3" font-family="Roboto, Arial, sans-serif" font-size="22">Customer-support agent</text><rect x="540" y="552" width="420" height="104" rx="18" fill="#15191E" stroke="#38414A" stroke-width="2"/>
+      <text x="566" y="586" fill="#07A3D1" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700">REGION</text>
+      <text x="566" y="626" fill="#EDE8E3" font-family="Roboto, Arial, sans-serif" font-size="22">US launch · EU/India extensions</text><rect x="72" y="682" width="420" height="104" rx="18" fill="#15191E" stroke="#38414A" stroke-width="2"/>
+      <text x="98" y="716" fill="#07A3D1" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700">QUANTITY</text>
+      <text x="98" y="756" fill="#EDE8E3" font-family="Roboto, Arial, sans-serif" font-size="22">Peak + steady demand</text><rect x="540" y="682" width="420" height="104" rx="18" fill="#15191E" stroke="#38414A" stroke-width="2"/>
+      <text x="566" y="716" fill="#07A3D1" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700">DATE</text>
+      <text x="566" y="756" fill="#EDE8E3" font-family="Roboto, Arial, sans-serif" font-size="22">Ramp + production start</text><rect x="72" y="812" width="420" height="104" rx="18" fill="#15191E" stroke="#38414A" stroke-width="2"/>
+      <text x="98" y="846" fill="#07A3D1" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700">ACCEPTANCE</text>
+      <text x="98" y="886" fill="#EDE8E3" font-family="Roboto, Arial, sans-serif" font-size="22">Model, latency, controls</text><rect x="540" y="812" width="420" height="104" rx="18" fill="#15191E" stroke="#38414A" stroke-width="2"/>
+      <text x="566" y="846" fill="#07A3D1" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700">FALLBACK</text>
+      <text x="566" y="886" fill="#EDE8E3" font-family="Roboto, Arial, sans-serif" font-size="22">Queue, alternate, manual</text>
+
+  <text x="72" y="984" fill="#EDE8E3" font-family="Radley, Georgia, serif" font-size="38">Then separate the regional conditions.</text>
+  <rect x="72" y="1024" width="936" height="190" rx="22" fill="#15191E" stroke="#38414A" stroke-width="2"/>
+  <text x="104" y="1070" fill="#07A3D1" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700">US</text>
+  <text x="218" y="1070" fill="#EDE8E3" font-family="Roboto, Arial, sans-serif" font-size="20">Reserved service + acceptance test + recovery path</text>
+  <line x1="104" y1="1092" x2="976" y2="1092" stroke="#38414A" stroke-width="2"/>
+  <text x="104" y="1131" fill="#07A3D1" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700">EU</text>
+  <text x="218" y="1131" fill="#EDE8E3" font-family="Roboto, Arial, sans-serif" font-size="20">Allocation, data boundary, model service and exit condition</text>
+  <line x1="104" y1="1153" x2="976" y2="1153" stroke="#38414A" stroke-width="2"/>
+  <text x="104" y="1192" fill="#07A3D1" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700">INDIA</text>
+  <text x="218" y="1192" fill="#EDE8E3" font-family="Roboto, Arial, sans-serif" font-size="20">Eligibility, approval, provider allocation, SLA and expiry</text>
+  <rect x="72" y="1245" width="936" height="60" rx="16" fill="#10262A" stroke="#07A3D1" stroke-width="2"/>
+  <text x="104" y="1283" fill="#EDE8E3" font-family="Roboto, Arial, sans-serif" font-size="22" font-weight="700">Decision: which blank field prevents approval today?</text>
+  <text x="72" y="1333" fill="#87919A" font-family="Roboto, Arial, sans-serif" font-size="16">Illustrative US bank scenario. OCC Bulletin 2020-94 transmits interagency sound practices for large, complex domestic banks.</text>
+</svg>
