@@ -10,15 +10,17 @@ The series follows AI from physical infrastructure and financing to the business
 
 **[Download the complete available collection — v1.0.0](https://github.com/Ariana-Digital/AEGIS-open-skills-tools-assets/raw/refs/heads/main/downloads/ai-has-a-supply-chain-v1.0.0.zip)**
 
-The collection includes **3 local browser workflows, 3 companion AI skills and 26 visual assets** across Episodes 1–8, including one seven-page PDF carousel. Five visuals also have editable SVG masters. It is not a complete production package for every episode. No spreadsheets are included.
+The collection includes **3 local browser workflows, 3 companion AI skills and 26 visual assets**, including one seven-page PDF carousel. Five visuals also have editable SVG masters. It is not a complete production package for every episode. No spreadsheets are included.
+
+**1 October series update:** the remaining series has been condensed into Episodes 7 and 8. Existing ZIPs retain their original labels. In particular, Delivery Gates now supports Episode 7, while its filename still says Episode 8. See the [episode and download guide](SERIES-MAP.md). No new finale media or applications are released by this documentation update.
 
 ### Tools you can use now
 
-| Episode | Decision | Download | Read first |
+| Series use | Decision | Download | Read first |
 |---|---|---|---|
 | 6 · Control | Who holds the rights, evidence and operating duties? | [Control Review ZIP](https://github.com/Ariana-Digital/AEGIS-open-skills-tools-assets/raw/refs/heads/main/downloads/episode-06-control-review-v1.0.0.zip) | [Instructions](tools/episode-06-control-review/START-HERE.md) |
 | 7 · Placement | Which configurations meet this workload's requirements? | [Placement Test ZIP](https://github.com/Ariana-Digital/AEGIS-open-skills-tools-assets/raw/refs/heads/main/downloads/episode-07-placement-test-v1.0.0.zip) | [Instructions](tools/episode-07-placement-test/START-HERE.md) |
-| 8 · Delivery | Which dependency controls the modeled service date? | [Delivery Gates ZIP](https://github.com/Ariana-Digital/AEGIS-open-skills-tools-assets/raw/refs/heads/main/downloads/episode-08-delivery-gates-v1.0.0.zip) | [Instructions](tools/episode-08-delivery-gates/START-HERE.md) |
+| 7 · Delivery (legacy label: 8) | Which dependency controls the modeled service date? | [Delivery Gates ZIP](https://github.com/Ariana-Digital/AEGIS-open-skills-tools-assets/raw/refs/heads/main/downloads/episode-08-delivery-gates-v1.0.0.zip) | [Instructions](tools/episode-08-delivery-gates/START-HERE.md) |
 
 Extract a tool ZIP, keep its files together and open `index.html`. Try the labeled fictional example, then start a blank review. No installation, account, API key or internet connection is needed. Save a JSON review to reopen it; download a Markdown brief to share through approved channels. Nothing saves automatically.
 
@@ -45,7 +47,7 @@ The tools organize user-supplied evidence. They do not verify documents, run mod
 
 Browser tools use local files and bundled fonts, with no analytics, accounts or external requests. Browser extensions, device controls and downloaded files are outside that privacy boundary. Do not enter secrets or sensitive source records.
 
-This release excludes internal research, resumes, editorial planning, dated market snapshots awaiting refresh, superseded graphics and unfinished episode content. Episodes 7 and 8 have released tools, not complete article/video/visual-production packages. Episodes 9–12 are not included. See [release status](RELEASE-STATUS.md) and [checksums](downloads/SHA256SUMS.txt).
+This release excludes internal research, resumes, editorial planning, dated market snapshots awaiting refresh, superseded graphics and unfinished episode content. The revised Episode 7 uses two existing tools; no new Episode 8 browser workflow is released. Full finale article/video/visual-production packages are not included. See [release status](RELEASE-STATUS.md), [numbering guide](SERIES-MAP.md) and [checksums](downloads/SHA256SUMS.txt).
 
 ## Reuse
 

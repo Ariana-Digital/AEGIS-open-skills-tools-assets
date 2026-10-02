@@ -1,5 +1,7 @@
 # Release status: v1.0.0
 
+**Numbering note, 1 October 2026:** this historical package record uses original episode numbers. The revised series ends at Episode 8; the original Delivery Gates tool now supports Episode 7. See [current episode mapping](SERIES-MAP.md). No archives or tool behavior changed in this documentation update.
+
 Prepared 24 September 2026. This record describes the downloadable collection, not the publication state of LinkedIn posts or videos.
 
 | Material | Included state |
